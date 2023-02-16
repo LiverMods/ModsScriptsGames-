@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LiverMods/ModsScriptsGames-/main/ZombieMeregeTycoon'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LiverMods/ZombieLM/main/ZombieMerege'))()
 --[[
        Feito por Liver zMods
        Made by Liver zMods
